@@ -1,8 +1,7 @@
 #  Global course mapping tool
 
 ## Project Overview
-The **Course Mapping System** was developed for the **University of the Pacific – Office of Global Education** (Summer 2025).  
-It streamlines the process of **searching, mapping, and approving international courses** for students preparing to study abroad. This system enables students and staff to easily view previously approved courses, reduces redundant paperwork, and ensures transparent decision-making for outbound study abroad participants.  
+The **Course Mapping System** was developed for the **University of the Pacific – Office of Global Education** (Summer 2025). It streamlines the process of **searching, mapping, and approving international courses** for students preparing to study abroad. This system enables students and staff to easily view previously approved courses, reduces redundant paperwork, and ensures transparent decision-making for outbound study abroad participants.  
 
 ---
 
