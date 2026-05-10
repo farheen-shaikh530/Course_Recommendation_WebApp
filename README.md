@@ -78,14 +78,14 @@ Sign In → Explore Programs → Search Courses → View Equivalencies → Expor
 
 ## Step 1: Sign In to the Portal
 
-<p align="center">
-  <img width="1000" alt="Program Search Dashboard" src="https://github.com/user-attachments/assets/d0236cee-f5ae-44fe-bffa-7d46e43f4e98" />
-</p>
-
 1. Navigate to the **Pacific Global Study Abroad Portal**: [pacific-global.via-trm.com](https://pacific-global.via-trm.com/authV2/welcome)
 2. You will see the **Welcome** screen with the University of the Pacific logo
 3. **If you have a UOP login:** Click **"Go to Portal >"** to sign in with your university credentials
 4. **If you do not have a UOP login:** Click **"Sign Up"** to create a new account, or **"Sign In"** if you already registered
+
+<p align="center">
+  <img width="1000" alt="Program Search Dashboard" src="https://github.com/user-attachments/assets/d0236cee-f5ae-44fe-bffa-7d46e43f4e98" />
+</p> 
 
 > **Note:** You must have a valid University of the Pacific account to access the full system.
 
@@ -101,9 +101,9 @@ Once logged in, you will see the **Program Search** dashboard with university na
 <h5 align="center">Search results showing exchange programs across Germany, Japan, France, and more</h5>
 
 
-### Navigation Sidebar
+### What is the use of Navigation Sidebar?
 
-On the left panel, you have access to:
+On the left panel, you have access to review your applications, programs selected, event registered
 
 | Menu Item | Description |
 |-----------|-------------|
