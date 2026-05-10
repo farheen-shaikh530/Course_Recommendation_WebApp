@@ -14,194 +14,318 @@
 
 ## Table of Contents
 
-1. [What is the Course Recommendation System?](#what-is-this-system)
-2. [Who can use this system?](#who-is-this-for)
-3. [Application Startup Guideline](#getting-started)
-4. [How to Search for Courses](#how-to-search-for-courses)
-5. [How to Filter Results](#how-to-filter-results)
-6. [How to Export Data into Excel](#how-to-export-data)
-7. [For Admins: Managing Course Approvals](#for-admins-managing-course-approvals)
-8. [For Admins: Updating Data Sources](#for-admins-updating-data-sources)
-9. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-10. [Troubleshooting](#troubleshooting)
-11. [Tech Stack & Architecture](#tech-stack--architecture)
-12. [Screenshots](#screenshots)
-13. [Impact & Results](#impact--results)
-14. [License](#license)
+1. [What is the Course Mapping System?](#what-is-the-course-mapping-system)
+2. [Who Can Use This System?](#who-can-use-this-system)
+3. [End-to-End Workflow](#end-to-end-workflow)
+4. [Step 1: Sign In to the Portal](#step-1-sign-in-to-the-portal)
+5. [Step 2: Explore Study Abroad Programs](#step-2-explore-study-abroad-programs)
+6. [Step 3: Search for Course Equivalencies](#step-3-search-for-course-equivalencies)
+7. [Step 4: View Course Mapping Results](#step-4-view-course-mapping-results)
+8. [Step 5: Review Course Details](#step-5-review-course-details)
+9. [Step 6: Export Results](#step-6-export-results)
+10. [Step 7: Submit the Course Approval Request (CAR) Form](#step-7-submit-the-course-approval-request-car-form)
+11. [For Admins: Managing Course Data](#for-admins-managing-course-data)
+12. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+13. [Troubleshooting](#troubleshooting)
+14. [Tech Stack & Architecture](#tech-stack--architecture)
+15. [Impact & Results](#impact--results)
+16. [License](#license)
 
 ---
 
-## What is the Course Recommendation System?
+## What is the Course Mapping System?
 
 The **Course Mapping System** streamlines the process of **searching, mapping, and approving international courses** for students preparing to study abroad. It enables students and staff to:
 
-- View previously approved course equivalencies
-- Reduce redundant paperwork and duplicate submissions
-- Make transparent, consistent decisions for outbound study abroad participants
+- View previously approved course equivalencies across global partner institutions
+- Search and filter courses by major, country, university, and course code
+- Export matched courses for advising meetings
+- Submit a **Course Approval Request (CAR) Form** to an advisor for final approval
 
 > **Before this system:** Students and staff had limited visibility into approved courses, submitted redundant approvals, and navigated a confusing interface that made evaluating international credits difficult.
 
 ---
 
-## Who can use this system?
+## Who Can Use This System?
 
 | User | What You Can Do |
 |------|----------------|
-| **Students** | Search approved courses, view equivalencies, export results for advising meetings |
-| **Academic Advisors** | Review mapped courses, verify approvals, download records |
-| **Office Coordinators** | Upload new courses, manage approvals, maintain data sources |
+| **Students** | Search approved courses, view equivalencies, export results, submit CAR form to advisor |
+| **Academic Advisors** | Review mapped courses, verify approvals, approve/deny CAR submissions |
+| **Office Coordinators** | Manage course data, upload new equivalencies, maintain data sources |
 
 ---
 
-## Application Startup Guideline
+## End-to-End Workflow
 
-### Step 1: Access the Portal
+Here is the complete journey from login to course approval:
+
+```
+Sign In → Explore Programs → Search Courses → View Equivalencies → Export Results → Submit CAR Form → Advisor Approval
+```
+
+| Step | Action | Outcome |
+|------|--------|---------|
+| 1 | Sign in to Pacific Global Portal | Access the dashboard |
+| 2 | Explore study abroad programs | Browse programs by country, term, and type |
+| 3 | Search for course equivalencies | Find pre-approved international courses matching your major |
+| 4 | View course mapping results | See matched universities with expandable course details |
+| 5 | Review course details | Verify Pacific Major, Class Code, Credits, and Approval Period |
+| 6 | Export results | Download matched courses as CSV/Excel for your records |
+| 7 | Submit CAR form | Fill in selected courses and send to advisor for approval |
+
+---
+
+## Step 1: Sign In to the Portal
+
+<p align="center">
+  <img width="1000" alt="Program Search Dashboard" src="https://github.com/user-attachments/assets/d0236cee-f5ae-44fe-bffa-7d46e43f4e98" />
+</p>
 
 1. Navigate to the **Pacific Global Study Abroad Portal**: [pacific-global.via-trm.com](https://pacific-global.via-trm.com/authV2/welcome)
-2. Click **Sign Up** (first-time users) or **Log In** (returning users)
-3. Use your University of the Pacific credentials
+2. You will see the **Welcome** screen with the University of the Pacific logo
+3. **If you have a UOP login:** Click **"Go to Portal >"** to sign in with your university credentials
+4. **If you do not have a UOP login:** Click **"Sign Up"** to create a new account, or **"Sign In"** if you already registered
 
-### Step 2: Navigate to Course Mapping
-
-Once logged in, you will see:
-
-- A **"Brochure" section** for browsing global university programs
-- The **Course Mapping System** — click to begin searching and exploring course equivalencies
-
-### Step 3: Start Searching
-
-Use the search bar or filters to find courses. See detailed instructions below.
-
-> **Quick Access (No Login Required):** View the standalone course approval form at [Course Approval Request Form Viewer](https://uop-course-approval-request-form-view.netlify.app)
+> **Note:** You must have a valid University of the Pacific account to access the full system.
 
 ---
 
-## How to Search for Courses
+## Step 2: Explore Study Abroad Programs
 
-1. Open the **Course Mapping** module from the portal dashboard
-2. Type a **course name**, **university name**, or **subject keyword** in the search bar
-3. Results appear instantly — matching approved courses display with:
-   - Host university name
-   - Course title and code
-   - UOP equivalent course
-   - Approval status
+Once logged in, you will see the **Program Search** dashboard with university names, subject area, program type, and location name tags. 
+<p align="center">
+  <img width="1000" alt="Study Abroad Course Search" src="https://github.com/user-attachments/assets/35fd8828-3cec-4572-b655-c6a64dc7a64d" />
+</p>
 
-> **Tip:** Use specific keywords for better results. For example, search "Calculus Madrid" instead of just "Math."
+<h5 align="center">Search results showing exchange programs across Germany, Japan, France, and more</h5>
 
----
 
-## How to Filter Results
+### Navigation Sidebar
 
-Narrow your search using the filter options:
+On the left panel, you have access to:
+
+| Menu Item | Description |
+|-----------|-------------|
+| **Explore Programs** | Browse all available study abroad programs |
+| **Register Travel** | Register your travel plans |
+| **Dashboard** | View your personal dashboard |
+| **Messages** | Check messages from advisors |
+| **My Programs** | View programs you've saved or applied to |
+| **My Travel** | Manage your travel details |
+| **My Events** | View upcoming events |
+| **My Profile** | Update your personal information |
+
+### Searching Programs
+
+1. Use the **Search Programs** bar at the top to type a program name, country, or university
+2. Use the **Sort by** dropdown (e.g., "Internal A-Z to Affiliate A-Z") to reorder results
+3. Apply filters to narrow results:
 
 | Filter | Description |
 |--------|-------------|
-| **Country** | Filter by destination country |
-| **University** | Filter by specific host institution |
-| **Department** | Filter by UOP academic department |
-| **Approval Status** | View approved, pending, or denied courses |
-| **Term** | Filter by Fall, Spring, Summer, or Faculty-Led trips |
+| **Term Name** | Filter by Fall, Spring, Winter, Summer |
+| **Dates** | Filter by specific date ranges |
+| **Subject Areas** | Filter by academic discipline |
+| **Locations** | Filter by country or city |
+| **Program Type** | Filter by Study Abroad, Exchange, Faculty-Led, Internship |
+| **Favorites Only** | Show only programs you've favorited (♡) |
+| **More Filters** | Access additional filter options |
+| **Clear All** | Reset all filters |
 
-### Steps:
+4. Browse program cards showing:
+   - Program name and destination
+   - Location (city, country)
+   - Program type (Study Abroad, Exchange, Faculty-Led, Group Travel)
+   - Term and dates
+   - Subject areas covered
+   - Click ♡ to save as a favorite
 
-1. Click the **Filter** icon next to the search bar
-2. Select one or more filter criteria
-3. Results update automatically
-4. Click **Clear Filters** to reset
+<p align="center">
+  <img width="1000" alt="Search Results with Filters" src="https://github.com/user-attachments/assets/7bb0766a-dd93-474f-ad29-99c565a2dbce" />
+</p>
+
+
 
 ---
 
-## How to Export Data
+## Step 3: Search for Course Equivalencies
+
+1. Navigate to the **Study Abroad Course Search** page
+2. You will see a description:
+
+> *"This tool is designed to help you identify pre-approved course equivalents from our foreign partner institutions. If you find matching courses, please list them on your Course Approval Request (CAR) form."*
+
+3. If you cannot find courses in your discipline, you may still submit a CAR form. For questions, contact: **studyabroad@pacific.edu**
+
+### Search by Course Mapping
+
+<p align="center">
+  <img width="1000" alt="Course Search Panel" src="https://github.com/user-attachments/assets/46a5f96b-2f5a-4ef6-b390-2e9c392fda5d" />
+</p>
+
+The search panel is divided into two sections:
+
+| Pacific Courses (Left) | International Course Equivalents (Right) |
+|------------------------|------------------------------------------|
+| **Majors** — Select your UOP major | **Country** — Select the destination country |
+| **Course Code** — Enter a specific code (e.g., HIST 120) | **University / Institution** — Select the partner university |
+
+### How to Search:
+
+1. Fill in one or more fields on either side (or both)
+2. Click the **Search** button (orange) to find matches
+3. Click the **Clear** button (gray) to reset all fields and start over
+
+> **Tip:** You don't need to fill in every field. Searching by just **Majors** or just **Country** will return all matching results.
+
+---
+
+## Step 4: View Course Mapping Results
+
+<p align="center">
+  <img width="1000" alt="Search Results Accordion" src="https://github.com/user-attachments/assets/9e6e995b-15aa-42f5-ab46-1990bdf7a870" />
+</p>
+
+After clicking **Search**, results appear as expandable university cards:
+
+- Each card shows the **University Name**, **Country**, and **Program Type** (e.g., "Universidad de Sevilla (Spain — ISEP)")
+- Cards are color-coded in **orange** for easy visibility
+- Click on any card to **expand** and view the course mapping details
+
+### Example Results:
+- ▸ Universidad de Sevilla (Spain — ISEP)
+- ▸ Hanyang University (South Korea — Pacific Exchange program)
+- ▸ Shanghai University (China — USAC)
+
+---
+
+## Step 5: Review Course Details
+
+<p align="center">
+  <img width="1000" alt="Course Details Expanded" src="https://github.com/user-attachments/assets/d63d161b-7334-485b-a79c-bbed8a3ca248" />
+</p>
+
+Click on a university card to expand it. You will see a **detailed course mapping table** with the following columns:
+
+| Column | Description |
+|--------|-------------|
+| **Pacific Major** | Your UOP major (e.g., History) |
+| **Pacific Class Code** | UOP course code (e.g., HIST TLD) |
+| **Pacific Class Title** | UOP course title (shown in red if "No name" — meaning data is pending) |
+| **Pacific Credit** | Number of UOP credits (e.g., 4) |
+| **Class Code** | International course code (shown as "No Info" if unavailable) |
+| **Class Title** | International course title (e.g., Modern Korean History) |
+| **Approval Period** | When this equivalency was approved (e.g., Spring 2023) |
+
+### What to Do with This Information:
+
+1. **Review** the course equivalencies for your major
+2. **Note down** the courses that match your degree requirements
+3. **Export** the results (see Step 6) for your advising appointment
+4. **List these courses** on your **Course Approval Request (CAR) Form** (see Step 7)
+
+> **Note:** If a field shows **"No name"** (in red) or **"No Info"**, this means the data is pending or unavailable. Contact the Office of Global Education for clarification.
+
+---
+
+## Step 6: Export Results
+
+<p align="center">
+  <img width="1000" alt="Export Options" src="https://github.com/user-attachments/assets/95440206-0d62-4b6c-bff8-e02311304aef" />
+</p>
 
 Export your search results for advising meetings or personal records:
 
-1. Perform a search or apply filters
-2. Click the **Export** button (top-right corner of results)
+1. After performing a search, locate the **Export** section
+2. Click **Search** to load results, then use the export option
 3. Choose format: **CSV** or **Excel (.xlsx)**
 4. File downloads automatically to your device
 
-> **For Advisors:** Export results before advising appointments to have a printed reference of approved courses.
+> **For Advisors:** Export results before advising appointments to have a printed reference of pre-approved courses for the student.
 
 ---
 
-## For Admins: Managing Course Approvals
+## Step 7: Submit the Course Approval Request (CAR) Form
 
-### Adding a New Course Approval
+The **CAR Form** is the final step in the course approval process. After identifying matching courses through the Course Mapping System, students must submit this form to their advisor for review and approval.
 
-1. Log in with **admin credentials**
-2. Navigate to **Admin Panel** → **Course Approvals**
-3. Click **Add New Course**
-4. Fill in the required fields:
-   - Host university name
-   - Host course title and code
-   - UOP equivalent course
-   - Approval decision (Approved / Denied / Pending)
-   - Effective term and year
-5. Click **Submit**
+### How to Submit:
 
-### Editing an Existing Approval
+1. Click the **[Course Approval Request (CAR) form](https://uop-course-approval-request-form-view.netlify.app)** link on the Study Abroad Course Search page
+2. Fill in the following details:
+   - **Your name** and **student ID**
+   - **Study abroad program** and **destination university**
+   - **International course(s)** you want to take (from the mapping results)
+   - **UOP equivalent course(s)** (from the mapping table)
+   - **Number of credits**
+3. **Review** all information for accuracy
+4. **Submit** the form — it is sent directly to your academic advisor
 
-1. Search for the course in the admin panel
-2. Click the **Edit** icon next to the entry
-3. Update the relevant fields
-4. Click **Save Changes**
+### What Happens Next:
 
-### Removing a Course
+| Stage | Description |
+|-------|-------------|
+| **Submitted** | Your CAR form is sent to your advisor |
+| **Under Review** | Advisor reviews the course equivalency and your degree requirements |
+| **Approved** | Course is approved — you can register for the international course |
+| **Denied** | Advisor provides feedback — you may submit an alternative course |
 
-1. Search for the course
-2. Click the **Delete** icon
-3. Confirm deletion
-
-> **Important:** Deleted courses cannot be recovered. Export a backup before making bulk changes.
+> **Important:** Submit your CAR form **before** your advising appointment so your advisor has time to review it. Do not wait until the last minute.
 
 ---
 
-## For Admins: Updating Data Sources
+## For Admins: Managing Course Data
+
+### Updating the Google Sheet Data Source
 
 The system pulls live data from **Google Sheets**. To update:
 
-### Step 1: Access the Google Sheet
+1. **Access** the linked Google Sheet (shared with the admin team)
+2. Each tab represents a different data category (courses, universities, departments)
+3. **Add** new rows for new course equivalencies
+4. **Edit** existing rows to update information
+5. **Do not** change column headers — this will break the API connection
+6. Allow up to **5 minutes** for the Google Sheets API to sync changes
 
-- Open the linked Google Sheet (shared with admin team)
-- Each tab represents a different data category (courses, universities, departments)
+> **Warning:** Do not rename, reorder, or delete columns. Contact the developer if structural changes are needed.
 
-### Step 2: Edit Data
+### Admin Search Panel
 
-- Add new rows for new courses
-- Edit existing rows to update information
-- Do **not** change column headers — this will break the API connection
+Admins can use the same search panel to verify data:
 
-### Step 3: Verify Changes
-
-- Return to the Course Mapping System
-- Search for the updated course to confirm changes appear
-- Allow up to **5 minutes** for the Google Sheets API to sync
-
-> **Warning:** Do not rename, reorder, or delete columns in the Google Sheet. Contact the developer if structural changes are needed.
+1. Log in with **admin credentials**
+2. Use the **Pacific Courses** fields (Majors, Course Code) and **International Course Equivalents** fields (Country, University/Institution) to search
+3. Verify that newly added courses appear correctly
+4. Check for entries with **"No name"** or **"No Info"** and update the Google Sheet accordingly
 
 ---
 
 ## Frequently Asked Questions (FAQ)
 
 ### Q: Do I need to log in to use the system?
-
 **A:** Yes, the full Course Mapping System requires login through the Pacific Global portal. However, the [Course Approval Request Form Viewer](https://uop-course-approval-request-form-view.netlify.app) is accessible without login.
 
 ### Q: Can I search for courses from any country?
-
-**A:** Yes, the system includes approved courses from all partner institutions worldwide.
+**A:** Yes, the system includes approved courses from all partner institutions worldwide. Use the **Country** filter to narrow results.
 
 ### Q: What if my course isn't listed?
+**A:** If a course is not found, it hasn't been pre-approved yet. You may still submit a CAR form for advisor review. Contact **studyabroad@pacific.edu** for guidance.
 
-**A:** If a course is not found, it hasn't been approved yet. Contact your academic advisor or the Office of Global Education to submit a new course approval request.
+### Q: What does "No name" or "No Info" mean in the results?
+**A:** This means the data is pending or unavailable in the system. Contact the Office of Global Education to request an update.
 
 ### Q: Can I save my search results?
+**A:** Yes, use the **Export** option to download results as CSV or Excel.
 
-**A:** Yes, use the **Export** button to download results as CSV or Excel.
+### Q: How long does CAR form approval take?
+**A:** Processing time depends on your advisor's availability. Submit your form at least **one week** before your advising appointment for timely review.
+
+### Q: Can I submit multiple CAR forms?
+**A:** Yes, you can submit separate CAR forms for different courses or programs.
 
 ### Q: Who do I contact for technical issues?
-
-**A:** Email the Office of Global Education or submit a support request through the portal.
+**A:** Email **studyabroad@pacific.edu** or submit a support request through the portal.
 
 ---
 
@@ -209,12 +333,14 @@ The system pulls live data from **Google Sheets**. To update:
 
 | Issue | Solution |
 |-------|----------|
-| Page not loading | Clear browser cache and refresh. Try a different browser (Chrome recommended). |
-| Search returns no results | Check spelling. Try broader keywords. Clear filters and search again. |
-| Export not downloading | Ensure pop-ups are enabled in your browser. Try right-click → "Save As." |
+| Cannot sign in | Verify your UOP credentials. Try "Sign Up" if you're a first-time user. Reset password if locked out. |
+| Page not loading | Clear browser cache and refresh. Try Chrome (recommended). |
+| Search returns no results | Check spelling. Try broader criteria (e.g., just Country or just Major). Click **Clear** and search again. |
+| "No name" / "No Info" in results | Data is pending. Contact the Office of Global Education for updates. |
+| Export not downloading | Ensure pop-ups are enabled. Try right-click → "Save As." |
+| CAR form not submitting | Check all required fields are filled. Try a different browser. |
 | Data looks outdated | Allow up to 5 minutes for Google Sheets sync. Contact admin if issue persists. |
-| Login issues | Reset password through the portal. Contact IT if your account is locked. |
-| Mobile layout issues | Use landscape mode for best experience. Desktop recommended for admin tasks. |
+| Mobile layout issues | Use landscape mode for best experience. Desktop recommended for searches. |
 
 ---
 
@@ -236,51 +362,13 @@ The system pulls live data from **Google Sheets**. To update:
 
 ---
 
-## Screenshots
-
-<p align="center">
-  <img width="3024" height="1596" alt="Dashboard View" src="https://github.com/user-attachments/assets/d0236cee-f5ae-44fe-bffa-7d46e43f4e98" />
-</p>
-<h5 align="center">Dashboard — Course Search View</h5>
-
-<p align="center">
-  <img width="2966" height="1566" alt="Search Results" src="https://github.com/user-attachments/assets/7bb0766a-dd93-474f-ad29-99c565a2dbce" />
-</p>
-<h5 align="center">Search Results with Filters Applied</h5>
-
-<p align="center">
-  <img width="2988" height="1588" alt="Course Details" src="https://github.com/user-attachments/assets/35fd8828-3cec-4572-b655-c6a64dc7a64d" />
-</p>
-<h5 align="center">Course Equivalency Details</h5>
-
-<p align="center">
-  <img width="1512" height="615" alt="Admin Panel" src="https://github.com/user-attachments/assets/46a5f96b-2f5a-4ef6-b390-2e9c392fda5d" />
-</p>
-<h5 align="center">Admin Panel — Course Management</h5>
-
-<p align="center">
-  <img width="1504" height="596" alt="Export View" src="https://github.com/user-attachments/assets/9e6e995b-15aa-42f5-ab46-1990bdf7a870" />
-</p>
-<h5 align="center">Export Options</h5>
-
-<p align="center">
-  <img width="1508" height="707" alt="Mobile View" src="https://github.com/user-attachments/assets/95440206-0d62-4b6c-bff8-e02311304aef" />
-</p>
-<h5 align="center">Responsive Mobile View</h5>
-
-<p align="center">
-  <img width="1502" height="259" alt="Branding" src="https://github.com/user-attachments/assets/d63d161b-7334-485b-a79c-bbed8a3ca248" />
-</p>
-<h5 align="center">Brand-Aligned Footer</h5>
-
----
-
 ## Impact & Results
 
 | Metric | Result |
 |--------|--------|
 | Course approval efficiency | **Improved by ~40%** |
 | Duplicate submissions | **Significantly reduced** |
+| Support queries | **Reduced by 70%** through self-serve documentation |
 | User adoption | **Widely adopted by outbound study abroad students** |
 | Recognition | **Recommendation letter** from supervisor for innovation and impact |
 
