@@ -188,20 +188,14 @@ The search panel is divided into two sections:
 
 ## Step 4: View Course Mapping Results
 
-<p align="center">
-  <img width="1000" alt="Search Results Accordion" src="https://github.com/user-attachments/assets/9e6e995b-15aa-42f5-ab46-1990bdf7a870" />
-</p>
+
+<img width="3020" height="1572" alt="image" src="https://github.com/user-attachments/assets/0e9fae98-b274-4876-ac99-98b017b96e25" />
 
 After clicking **Search**, results appear as expandable university cards:
 
 - Each card shows the **University Name**, **Country**, and **Program Type** (e.g., "Universidad de Sevilla (Spain — ISEP)")
 - Cards are color-coded in **orange** for easy visibility
 - Click on any card to **expand** and view the course mapping details
-
-### Example Results:
-- ▸ Universidad de Sevilla (Spain — ISEP)
-- ▸ Hanyang University (South Korea — Pacific Exchange program)
-- ▸ Shanghai University (China — USAC)
 
 ---
 
