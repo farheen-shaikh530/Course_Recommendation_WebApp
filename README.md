@@ -415,5 +415,3 @@ This project was created for the **University of the Pacific — Office of Globa
 Unless otherwise noted, source code is released under the **MIT License**.
 
 Logos, branding, and course data remain the property of the **University of the Pacific**.
-
-🎨 Brand assets follow the [University of the Pacific Brand Guidelines](https://www.pacific.edu/sites/default/files/users/user245/UPac_BrandGuidelines_Final_compressed.pdf).
