@@ -52,7 +52,7 @@ The **Course Mapping System** streamlines the process of **searching, mapping, a
 |------|----------------|
 | **Students** | Search approved courses, view equivalencies, export results, submit CAR form to advisor |
 | **Academic Advisors** | Review mapped courses, verify approvals, approve/deny CAR submissions |
-| **Office Coordinators** | Manage course data, upload new equivalencies, maintain data sources |
+| **Study Abroad Advisorss** | Manage course data, upload new equivalencies, maintain data sources |
 
 ---
 
