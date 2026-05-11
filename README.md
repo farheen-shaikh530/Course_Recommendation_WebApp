@@ -87,7 +87,7 @@ Sign In → Explore Programs → Search Courses → View Equivalencies → Expor
   <img width="1000" alt="Program Search Dashboard" src="https://github.com/user-attachments/assets/d0236cee-f5ae-44fe-bffa-7d46e43f4e98" />
 </p> 
 
-> **Note:** You must have a valid University of the Pacific account to access the full system.
+> **Note:** You must have an active University of the Pacific account to access the full system.
 
 ---
 
@@ -105,7 +105,7 @@ Once logged in, you will see the **Program Search** dashboard with university na
 
 On the left panel, you have access to review your applications, programs selected, event registered
 
-| Menu Item | Description |
+| Menu Item | Use CAse    |
 |-----------|-------------|
 | **Explore Programs** | Browse all available study abroad programs |
 | **Register Travel** | Register your travel plans |
@@ -161,8 +161,13 @@ On the left panel, you have access to review your applications, programs selecte
 ### Search by Course Mapping
 
 <p align="center">
+  <img width="1000" alt="Search Results Accordion" src="https://github.com/user-attachments/assets/9e6e995b-15aa-42f5-ab46-1990bdf7a870" />
+</p>
+
+<p align="center">
   <img width="1000" alt="Course Search Panel" src="https://github.com/user-attachments/assets/46a5f96b-2f5a-4ef6-b390-2e9c392fda5d" />
 </p>
+
 
 The search panel is divided into two sections:
 
@@ -171,7 +176,7 @@ The search panel is divided into two sections:
 | **Majors** — Select your UOP major | **Country** — Select the destination country |
 | **Course Code** — Enter a specific code (e.g., HIST 120) | **University / Institution** — Select the partner university |
 
-### How to Search:
+### How to Search Your Course:
 
 1. Fill in one or more fields on either side (or both)
 2. Click the **Search** button (orange) to find matches
@@ -202,9 +207,6 @@ After clicking **Search**, results appear as expandable university cards:
 
 ## Step 5: Review Course Details
 
-<p align="center">
-  <img width="1000" alt="Course Details Expanded" src="https://github.com/user-attachments/assets/d63d161b-7334-485b-a79c-bbed8a3ca248" />
-</p>
 
 Click on a university card to expand it. You will see a **detailed course mapping table** with the following columns:
 
