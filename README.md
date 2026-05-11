@@ -6,14 +6,14 @@
 
 <p align="center">
   <b>University of the Pacific — Office of Global Education</b><br>
-  <b>🔗 Live Demo:</b> <a href="https://uop-course-approval-request-form-view.netlify.app">Course Approval Request Form Viewer</a><br>
-  <b>🌐 Portal:</b> <a href="https://pacific-global.via-trm.com/authV2/welcome">Pacific Global Study Abroad Portal</a><br>
-  <b>🎨 Brand Guidelines:</b> <a href="https://www.pacific.edu/sites/default/files/users/user245/UPac_BrandGuidelines_Final_compressed.pdf">University of the Pacific Brand Standards</a>
+    <b> Portal:</b> <a href="https://pacific-global.via-trm.com/authV2/welcome">Pacific Global Study Abroad Portal</a><br>
+  <b> Live Demo:</b> <a href="https://uop-course-approval-request-form-view.netlify.app">Course Approval Request Form Viewer</a><br>
+  <b> Brand Guidelines:</b> <a href="https://www.pacific.edu/sites/default/files/users/user245/UPac_BrandGuidelines_Final_compressed.pdf">University of the Pacific Brand Standards</a>
 </p>
 
 ---
 
-## 👋 Welcome!
+##  Welcome!
 
 Planning to study abroad? This guide walks you through **everything you need** to find approved international courses, match them to your UOP degree, and get advisor approval — all in one place.
 
@@ -58,7 +58,7 @@ The **Course Mapping System** helps you find international courses that have alr
 **Here's what you can do:**
 
 | Feature | What It Means for You |
-|:--------|:----------------------|
+|:-------:|:---------------------:|
 | 🔍 Search courses | Find approved international courses that match your major |
 | 🌎 Filter by country | See what's available in the country you want to study in |
 | 📊 View equivalencies | Know exactly which UOP course an international class replaces |
@@ -72,7 +72,7 @@ The **Course Mapping System** helps you find international courses that have alr
 ## 2. Who Can Use It?
 
 | You Are... | What You Can Do |
-|:-----------|:----------------|
+|:----------:|:---------------:|
 | 🎓 **Student** | Search courses, view equivalencies, export results, submit CAR form |
 | 👩‍🏫 **Academic Advisor** | Review student submissions, approve/deny course equivalencies |
 | 🌍 **Study Abroad Advisor** | Manage course data, upload new equivalencies, update records |
@@ -88,7 +88,7 @@ Your journey from "I want to study abroad" to "My courses are approved" in 7 sim
 ```
 
 | Step | What You Do | What Happens |
-|:-----|:------------|:-------------|
+|:----:|:-----------:|:------------:|
 | 4.1 | Sign in to the portal | You get access to the dashboard |
 | 4.2 | Browse study abroad programs | You see programs by country, term, and type |
 | 4.3 | Search for matching courses | The system finds pre-approved courses for your major |
@@ -105,10 +105,10 @@ Your journey from "I want to study abroad" to "My courses are approved" in 7 sim
 
 ### 4.1 Sign In to the Portal
 
-<p align="center">
+<p align="left">
   <img width="800" alt="Welcome Login Page" src="https://github.com/user-attachments/assets/d0236cee-f5ae-44fe-bffa-7d46e43f4e98" />
 </p>
-<h5 align="center">Fig 4.1 — Welcome Screen: Sign in through University of the Pacific Portal</h5>
+<h5 align="left">Fig 4.1 — Welcome Screen: Sign in through University of the Pacific Portal</h5>
 
 **How to sign in:**
 
@@ -125,17 +125,17 @@ Your journey from "I want to study abroad" to "My courses are approved" in 7 sim
 
 Once you're in, you'll land on the **Program Search** page. This is where you can explore all available study abroad options.
 
-<p align="center">
+<p align="left">
   <img width="800" alt="Program Search Dashboard" src="https://github.com/user-attachments/assets/35fd8828-3cec-4572-b655-c6a64dc7a64d" />
 </p>
-<h5 align="center">Fig 4.2a — Program Search Dashboard: Browse programs by location, type, and subject</h5>
+<h5 align="left">Fig 4.2a — Program Search Dashboard: Browse programs by location, type, and subject</h5>
 
 #### 4.2.1 Your Navigation Menu (Left Sidebar)
 
 The sidebar on the left is your control panel for everything study abroad:
 
 | Menu Item | What It's For |
-|:----------|:-------------|
+|:---------:|:-------------:|
 | 🌐 **Explore Programs** | Browse all available study abroad programs |
 | 📍 **Register Travel** | Register your travel plans with the university |
 | 📊 **Dashboard** | See your personal overview and status |
@@ -152,7 +152,7 @@ The sidebar on the left is your control panel for everything study abroad:
 3. **Filter** to narrow down what you see:
 
 | Filter | What It Does |
-|:-------|:-------------|
+|:------:|:------------:|
 | 📅 **Term Name** | Show only Fall, Spring, Winter, or Summer programs |
 | 🗓️ **Dates** | Filter by specific date ranges |
 | 📚 **Subject Areas** | Show programs in your academic discipline |
@@ -170,10 +170,10 @@ The sidebar on the left is your control panel for everything study abroad:
    - Subject areas
    - Click **♡** to save it as a favorite
 
-<p align="center">
+<p align="left">
   <img width="800" alt="Search Results with Filters" src="https://github.com/user-attachments/assets/7bb0766a-dd93-474f-ad29-99c565a2dbce" />
 </p>
-<h5 align="center">Fig 4.2b — Program Results: Exchange programs in Germany, Japan, France, and more</h5>
+<h5 align="left">Fig 4.2b — Program Results: Exchange programs in Germany, Japan, France, and more</h5>
 
 ---
 
@@ -191,15 +191,15 @@ This is where the magic happens. You'll search for international courses that ha
 
 #### 4.3.1 The Search Panel
 
-<p align="center">
+<p align="left">
   <img width="800" alt="Course Search Panel" src="https://github.com/user-attachments/assets/46a5f96b-2f5a-4ef6-b390-2e9c392fda5d" />
 </p>
-<h5 align="center">Fig 4.3a — Search Panel: Your UOP courses on the left, international equivalents on the right</h5>
+<h5 align="left">Fig 4.3a — Search Panel: Your UOP courses on the left, international equivalents on the right</h5>
 
 The search panel has two sides:
 
 | 🎓 Pacific Courses (Left Side) | 🌍 International Equivalents (Right Side) |
-|:-------------------------------|:------------------------------------------|
+|:------------------------------:|:-----------------------------------------:|
 | **Majors** — Pick your UOP major from the dropdown | **Country** — Pick the country you want to study in |
 | **Course Code** — Type a specific code (e.g., HIST 120) | **University / Institution** — Pick the partner university |
 
@@ -211,19 +211,19 @@ The search panel has two sides:
 
 > **💡 Pro Tip:** Searching by just **Majors** or just **Country** works great — you don't need to fill in every field.
 
-<p align="center">
+<p align="left">
   <img width="800" alt="Search Results Accordion" src="https://github.com/user-attachments/assets/9e6e995b-15aa-42f5-ab46-1990bdf7a870" />
 </p>
-<h5 align="center">Fig 4.3b — Search Results with Export Options</h5>
+<h5 align="left">Fig 4.3b — Search Results with Export Options</h5>
 
 ---
 
 ### 4.4 View Your Results
 
-<p align="center">
+<p align="left">
   <img width="800" alt="Course Mapping Results" src="https://github.com/user-attachments/assets/0e9fae98-b274-4876-ac99-98b017b96e25" />
 </p>
-<h5 align="center">Fig 4.4 — Your Results: Click any orange card to see course details</h5>
+<h5 align="left">Fig 4.4 — Your Results: Click any orange card to see course details</h5>
 
 After you click **Search**, your results show up as **expandable university cards**:
 
@@ -234,7 +234,7 @@ After you click **Search**, your results show up as **expandable university card
 **Example results you might see:**
 
 | University Card | What It Means |
-|:----------------|:-------------|
+|:---------------:|:-------------:|
 | ▸ Universidad de Sevilla (Spain — ISEP) | Courses available through ISEP exchange in Spain |
 | ▸ Hanyang University (South Korea — Pacific Exchange) | Courses through Pacific's direct exchange in South Korea |
 | ▸ Shanghai University (China — USAC) | Courses available through USAC program in China |
@@ -245,15 +245,15 @@ After you click **Search**, your results show up as **expandable university card
 
 Click on a university card to expand it. You'll see a **table showing exactly how international courses map to your UOP courses**:
 
-<p align="center">
+<p align="left">
   <img width="800" alt="Course Details Expanded" src="https://github.com/user-attachments/assets/d63d161b-7334-485b-a79c-bbed8a3ca248" />
 </p>
-<h5 align="center">Fig 4.5 — Course Details: Yonsei University (South Korea) — showing how courses map to UOP</h5>
+<h5 align="left">Fig 4.5 — Course Details: Yonsei University (South Korea) — showing how courses map to UOP</h5>
 
 #### 4.5.1 What Each Column Means
 
 | Column | What It Tells You |
-|:-------|:-----------------|
+|:------:|:-----------------:|
 | 🎓 **Pacific Major** | Your UOP major (e.g., History) |
 | 🔢 **Pacific Class Code** | The UOP course code (e.g., HIST TLD) |
 | 📝 **Pacific Class Title** | The UOP course name (red "No name" = data still pending) |
@@ -277,10 +277,10 @@ Click on a university card to expand it. You'll see a **table showing exactly ho
 
 > **🚧 Work In Progress:** In a future update, selected courses and their equivalencies will auto-populate the CAR form with your name, Pacific ID, and degree. You'll be able to get your advisor's signature and attach it to your VIA TRM application under additional documentation.
 
-<p align="center">
+<p align="left">
   <img width="800" alt="Export Options" src="https://github.com/user-attachments/assets/95440206-0d62-4b6c-bff8-e02311304aef" />
 </p>
-<h5 align="center">Fig 4.6 — Export: Download your matched courses as CSV or Excel</h5>
+<h5 align="left">Fig 4.6 — Export: Download your matched courses as CSV or Excel</h5>
 
 **How to export:**
 
@@ -312,7 +312,7 @@ The **Course Approval Request (CAR) Form** is the final step. This is how you of
 #### 4.7.2 What Happens After You Submit?
 
 | Stage | What's Happening |
-|:------|:-----------------|
+|:-----:|:----------------:|
 | 📨 **Submitted** | Your CAR form has been sent to your advisor |
 | 🔍 **Under Review** | Your advisor is checking the course equivalency against your degree plan |
 | ✅ **Approved** | You're good to go — register for the international course |
@@ -349,7 +349,7 @@ The system pulls live data from **Google Sheets**. To make updates:
 ## 6. Common Questions
 
 | # | Question | Answer |
-|:--|:---------|:-------|
+|:-:|:--------:|:------:|
 | 1 | Do I need to log in? | Yes, for the full system. The [CAR Form Viewer](https://uop-course-approval-request-form-view.netlify.app) works without login. |
 | 2 | Can I search any country? | Yes — all partner institutions worldwide are included. Use the **Country** filter. |
 | 3 | My course isn't listed? | It hasn't been pre-approved yet. Submit a CAR form anyway — your advisor can review it. Email **studyabroad@pacific.edu**. |
@@ -364,7 +364,7 @@ The system pulls live data from **Google Sheets**. To make updates:
 ## 7. Something Not Working?
 
 | # | Problem | Try This |
-|:--|:--------|:---------|
+|:-:|:-------:|:--------:|
 | 1 | Can't sign in | Check your UOP credentials. First-time? Click "Sign Up." Locked out? Reset your password. |
 | 2 | Page won't load | Clear your browser cache and refresh. Chrome works best. |
 | 3 | No search results | Check spelling. Try just one filter (e.g., only Country). Click **Clear** and retry. |
@@ -379,7 +379,7 @@ The system pulls live data from **Google Sheets**. To make updates:
 ## 8. How It Was Built
 
 | Layer | Technology |
-|:------|:----------|
+|:-----:|:----------:|
 | **Frontend** | JavaScript, HTML, CSS, React, Angular |
 | **Backend/Data** | Google Sheets API, Google Visualization API |
 | **Design** | Figma, [UOP Brand Guidelines](https://www.pacific.edu/sites/default/files/users/user245/UPac_BrandGuidelines_Final_compressed.pdf) |
@@ -389,7 +389,7 @@ The system pulls live data from **Google Sheets**. To make updates:
 ### Design Principles
 
 | Principle | What It Means |
-|:----------|:-------------|
+|:---------:|:-------------:|
 | 🎨 **Brand-aligned** | Colors, typography, and spacing follow [UOP Brand Guidelines](https://www.pacific.edu/sites/default/files/users/user245/UPac_BrandGuidelines_Final_compressed.pdf) |
 | ♿ **Accessible** | High contrast, semantic HTML, keyboard navigation — usable by everyone |
 | 📱 **Responsive** | Works on desktop, tablet, and mobile devices |
@@ -399,7 +399,7 @@ The system pulls live data from **Google Sheets**. To make updates:
 ## 9. Impact
 
 | # | What We Measured | Result |
-|:--|:-----------------|:-------|
+|:-:|:----------------:|:------:|
 | 1 | Course approval speed | **~40% faster** |
 | 2 | Duplicate form submissions | **Significantly reduced** |
 | 3 | Support questions from students | **Down 70%** thanks to self-serve documentation |
